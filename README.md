@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 im PHILLIPUS KAMATI
 
 <!--
 **profkamati/profkamati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
