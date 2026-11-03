@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Software Developer | Computer Science Student | Tech Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Software+Developer;Computer+Science+Student;Tech+Enthusiast;Founder;Full+Stack+Developer;Tech+Innovator;AI+Developer;Mobile+Developer;Cloud+Computing;Building+Real+Systems+%26+Solutions&repeat=true" />
+</p>
 
 <p align="center">
   Building innovative digital solutions, exploring emerging technologies, and turning ideas into reality.
@@ -53,6 +55,22 @@ Here are some ideas to get you started:
 * Database Architecture
 * AI Agents & Automation
 * Software Architecture
+
+---
+## 🚀 What I Build
+
+### Technology for environments where the obvious solution isn't always enough.
+
+| **Area**                           | **What I Work On**                                                   |
+| ---------------------------------- | -------------------------------------------------------------------- |
+| 🤖 **Artificial Intelligence**     | AI assistants, agents, RAG systems, local inference and automation   |
+| 📡 **Offline & Edge Computing**    | Systems designed for limited or unreliable connectivity              |
+| 🌍 **African Language Technology** | Translation, language processing and culturally relevant AI          |
+| 📱 **Mobile Applications**         | React Native, Expo and production-focused mobile systems             |
+| 🌐 **Full-Stack Systems**          | Modern web applications, APIs, dashboards and backend infrastructure |
+| ☁️ **Cloud Infrastructure**        | Azure, Google Cloud, Vercel, Supabase and deployment architecture    |
+| 🧩 **Developer Infrastructure**    | APIs, SDKs, communication infrastructure and integrations            |
+
 
 ---
 
